@@ -1,0 +1,5 @@
+E:\MyProject\MSRecursion\MSRecursion\bin\Debug\MSRecursion.exe
+E:\MyProject\MSRecursion\MSRecursion\bin\Debug\MSRecursion.pdb
+E:\MyProject\MSRecursion\MSRecursion\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\MSRecursion\MSRecursion\obj\Debug\MSRecursion.exe
+E:\MyProject\MSRecursion\MSRecursion\obj\Debug\MSRecursion.pdb
